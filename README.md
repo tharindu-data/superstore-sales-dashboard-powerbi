@@ -72,7 +72,9 @@ Watch the dashboard walkthrough here:
 
 ## 📂 Repository Files
 - `Superstore_Sales_Dashboard.pbix`
-- `dashboard-collage.png`
+- `Super_Store_Sales_Dashboard_Page_1.png`
+- `Super_Store_Sales_Dashboard_Page_2.png`
+- `Super_Store_Sales_Dashboard_Page_3.png`
 - `README.md`
 
 ---
