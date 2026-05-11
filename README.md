@@ -57,7 +57,7 @@ The dashboard is designed to provide business insights through KPI monitoring, t
 ## 📥 Download Power BI File
 
 Download the Power BI dashboard file here:  
-[Download PBIX](./Superstore_Sales_Dashboard.pbix)
+[Download PBIX](./Super_Store_Sales_Dashboard.pbit)
 
 ---
 
