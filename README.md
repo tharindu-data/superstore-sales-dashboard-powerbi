@@ -54,10 +54,9 @@ The dashboard is designed to provide business insights through KPI monitoring, t
 - Order activity is concentrated in top-performing states and cities.
 
 ---
-## 📥 Download Power BI File
-
-Download the Power BI dashboard file here:  
-[Download PBIX](./Super_Store_Sales_Dashboard.pbit)
+## 🌐 Live Dashboard
+View the interactive dashboard here:  
+[Open Live Dashboard](https://app.powerbi.com/links/syzC0pZrgl?ctid=725f0077-c86f-4b09-8fd8-969d9e90c83e&pbi_source=linkShare)
 
 ---
 
