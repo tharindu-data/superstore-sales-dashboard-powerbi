@@ -54,6 +54,12 @@ The dashboard is designed to provide business insights through KPI monitoring, t
 - Order activity is concentrated in top-performing states and cities.
 
 ---
+## 📥 Download Power BI File
+
+Download the Power BI dashboard file here:  
+[Download PBIX](./Superstore_Sales_Dashboard.pbix)
+
+---
 
 ## 🎥 Dashboard Demo
 Watch the dashboard walkthrough here:  
