@@ -62,7 +62,9 @@ Watch the dashboard walkthrough here:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard-collage.png)
+![Dashboard Preview](Super_Store_Sales_Dashboard_Page_1.png)
+![Dashboard Preview](Super_Store_Sales_Dashboard_Page_2.png)
+![Dashboard Preview](Super_Store_Sales_Dashboard_Page_3.png)
 
 
 
