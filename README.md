@@ -57,7 +57,6 @@ The dashboard is designed to provide business insights through KPI monitoring, t
 
 ## 🎥 Dashboard Demo
 Watch the dashboard walkthrough here:  
-[Add your YouTube Video Link Here]
 
 ---
 
